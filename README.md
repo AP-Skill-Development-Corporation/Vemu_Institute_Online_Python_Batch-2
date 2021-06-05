@@ -1,6 +1,9 @@
 # Vemu_Institute_Online_Python_Batch-2
 
 
+### Python Workshop Recording Session Drive Link
+[Python Videos Drive Link](https://drive.google.com/drive/folders/1j-Z5zbNPZr0wf0VYc0Aho6WNRs8MNXb7?usp=sharing)
+
 
 ## Please follow the Following Instructions
 ### Everyone should compulsory follow the below instruction in order to get the attendance --> Then only you get Certificate
@@ -14,7 +17,7 @@
 
 ### IDLE Installation Link
 
-[https://www.python.org/downloads/](https://www.python.org/downloads/)
+[IDLE Installation](https://www.python.org/downloads/)
 
 
 ## Discussion Topics
@@ -35,16 +38,14 @@
 
 
 
-## Day-1 Video link
-
-
-
 # Day-2(Jupyter Installation and Markdown Format) (18-may-2021):
 
 
 ### Anaconda Installation
 
-[https://www.anaconda.com/products/individual](https://www.anaconda.com/products/individual)
+[Anaconda Installation](https://www.anaconda.com/products/individual)
+
+[Anaconda Cheat Sheet download link](https://docs.anaconda.com/_downloads/9ee215ff15fde24bf01791d719084950/Anaconda-Starter-Guide.pdf)
 
 ## Discussion Topics:
 
@@ -59,9 +60,7 @@
   * Links
   * images
   * Block quote ..,etc..,
-
-
-## Day-2 Recording Link
+  * Cheet Sheet
 
 
 
@@ -75,8 +74,6 @@
 * Data types(string)
 
 
-### Day-3 (recording Link)
-
 <hr>
 
 # Day-4(Operators)(20-05-2021)
@@ -89,8 +86,6 @@
 * Identity Operators (is, isnot)
 * Membership Operators (in,not in)
 
-
-## Day-4(Recording Link)
 
 <hr>
 
@@ -111,9 +106,6 @@
 * Set DataType
 
 
-## Day-5 (Recording Link)
-
-
 <hr>
 
 # Day-6(Conditional Satements and Loops) (22-05-2021)
@@ -132,21 +124,27 @@
   * while loop
   * Problem Solving and Programming in Loops
 
-## Day-6(Recording Link)
-
 
 <hr>
 
 # Day-7(Functions and Types of Functions) (24-05-2021)
 
+* How to define function
 * Types of Functions
    * Pre-defined /Builtin
    * User Defined
+    * We have 8 types of functions
+       * with arguments with return type
+       * without arguments with return type
+       * with arguments without retuen type
+       * without argument without return type
+       * required argument /positional argument
+       * keyword argument
+       * default argument
+       * variable length argument
 
 * Local and Global Variables
 * Problem Solving and Programming in Functions
-
-## Day-7(Recording Videos)
 
 
 <hr>
@@ -155,8 +153,6 @@
 
 * Strings
 * String Properties
-
-## Day-8(Recording Videos link)
 
 
 <hr>
@@ -168,9 +164,6 @@
 * List Methods
 
 
-## Day-9(Recording videos Link)
-
-
 # Day-10( Data Structures- Tuples ,Dictionary,Sets)(27-05-2021)
 
 * Tuples
@@ -179,8 +172,6 @@
 * Dictionary Methods
 * Sets
 * Sets Methods
-
-## Day-10(video Link)
 
 <hr>
 
@@ -193,8 +184,6 @@
   * Dictionary Comprehension
   * Set comprehension
   * Generator Comprehension
-
-## Day-11 (Recording Link)
 
 <hr>
 
@@ -212,9 +201,6 @@
  * filter() with map()
  * map() with filter()
  * map() ,filter(),reduce() with lambda()
- 
-  
-## Day-12 (Recording Videos)
 
 
 # Day-13(Iterators and Generators in Python , Packages and Modules) (31-05-2021)
@@ -234,9 +220,6 @@
   * User Defined Modules
   
  * Packages
-
-
-## Day-13(Recording Link)
 
 
 # Day-14(Files and File Handling)(01-06-2021)
@@ -289,6 +272,24 @@
   * sub()
 * Mobile number validation
 * Email Validation
+
+
+
+# Day-17 OOPs(Object Oriented Programming)(0-06-2021)
+
+* classes(Collection of objects,methods,variables..., It is a blueprint)
+  * Define class
+  * Declaration class
+  * Local variables and global variable with different values
+  * Local variables and global variable with same values
+  * Named Object and Without name object
+  * Attributes
+  * behaviour
+  * methods
+* objects (state,behaviour)
+* Inheritance(Parent ,child relation ship,attributes ,methods)
+* Data abstraction ()
+* Encapsulation(code ,data is in same place)
       
  
   
